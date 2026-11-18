@@ -119,9 +119,9 @@
   @media (min-width: 1200px) { .container-site { max-width: 1140px; } }
   @media (min-width: 1400px) { .container-site { max-width: 1320px; } }
 
-  /* Section kontak dan footer (78px) pas satu layar di bawah navbar (67px) */
+  /* Section kontak dan footer (52px) pas satu layar di bawah navbar (67px) */
   .contact-section {
-    min-height: calc(100svh - 67px - 78px);
+    min-height: calc(100svh - 67px - 52px);
     padding-block: 40px;
   }
 
